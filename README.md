@@ -23,6 +23,6 @@ The following data sets were collected by from FRED data:
 2. During Submprime mortgage crisis, we can see the mortgage deliquency rate surged up around 200%. 
 3. During the Covid Pandemic, the mortgage deliquency rate has a smaller percentage icnreaase due to forbearance scheme, despite having  very high levels of unemployment.
 
-# Future investigations
+## Future investigations
 1. Perform some predictive models, using a time series forecasting and regression analysis
 2. Advise solutions based on data analysis results, and scholar journals and articles
